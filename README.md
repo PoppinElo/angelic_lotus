@@ -1,4 +1,4 @@
-# [Angelic Lotus — ENSO, Global Temperature & Food Security in India](https://portal.neuromatchacademy.org/certificate/8b816f6e-e077-4df3-a1bf-5ef57cd776b0)
+# [Angelic Lotus - ENSO, Global Temperature & Food Security in India, CMA](https://portal.neuromatchacademy.org/certificate/8b816f6e-e077-4df3-a1bf-5ef57cd776b0)
 
 Analysis of how **increasing global mean temperature** and **ENSO (El Niño–Southern Oscillation)** affect **food security in India** (focus on June–September). The project combines climate reanalysis (ERA5-derived) and FAO crop yield data to explore correlations between climate anomalies and agricultural outcomes.
 
