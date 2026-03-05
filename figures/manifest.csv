@@ -1,0 +1,17 @@
+n,cell_index,output_index,title,filename
+1,5,0,ENSO 3.4,001_enso_34.png
+2,6,0,ENSO 3.4,002_enso_34.png
+3,9,0,Global Mean Surface Temperature,003_global_mean_surface_temperature.png
+4,10,0,Global Mean Surface Temperature,004_global_mean_surface_temperature.png
+5,12,0,,005_cell_0012_output_00.png
+6,14,0,,006_cell_0014_output_00.png
+7,16,0,,007_cell_0016_output_00.png
+8,17,0,,008_cell_0017_output_00.png
+9,19,0,,009_cell_0019_output_00.png
+10,21,0,,010_cell_0021_output_00.png
+11,23,0,,011_cell_0023_output_00.png
+12,24,0,Time Series,012_time_series.png
+13,25,0,Time Series,013_time_series.png
+14,34,0,Corr Matrix of Pearson (1991 - 2022),014_corr_matrix_of_pearson_1991_2022.png
+15,36,0,Corr Matrix of Spearman (1991 - 2022),015_corr_matrix_of_spearman_1991_2022.png
+16,38,0,Cross correlation - sst3_4 influence in Cabbages Yield Anomalies,016_cross_correlation_sst3_4_influence_in_cabbages_yield_anomalies.png
